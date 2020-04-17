@@ -1,4 +1,4 @@
-# world
+# mini vue.js page
 
 ## Project setup
 ```
